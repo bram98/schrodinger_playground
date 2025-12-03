@@ -1,0 +1,1 @@
+mamba create -n spyder_env -c conda-forge spyder=6 pyqtgraph pyqt6 pyopengl pyyaml
